@@ -51,17 +51,16 @@ An all-in-one Excel analysis platform that allows users to upload `.xlsx` or `.x
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Shubhamgiri102/ExcelAnalyzer.git
+git clone https://github.com/Narendra7672/Excel-Analytical-platform
 cd ExcelAnalyzer
 cd Backend
 npm install
 cd ../frontend
 npm install
 npm run dev
-📬 Contact
-Shubham Giri
-📧 girishubham451@gmail.com
-🌐 LinkedIn | GitHub
+Narendra Goud
+📧 narendra7672@gmail.com
+
 
 ---
 
